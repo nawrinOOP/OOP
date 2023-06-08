@@ -1,0 +1,44 @@
+D:\ashik csharp project\Student Result Recording System\Student Result Recording System\bin\Debug\Student Result Recording System.exe.config
+D:\ashik csharp project\Student Result Recording System\Student Result Recording System\bin\Debug\Student Result Recording System.exe
+D:\ashik csharp project\Student Result Recording System\Student Result Recording System\bin\Debug\Student Result Recording System.pdb
+D:\ashik csharp project\Student Result Recording System\Student Result Recording System\obj\Debug\Student Result Recording System.csproj.AssemblyReference.cache
+D:\ashik csharp project\Student Result Recording System\Student Result Recording System\obj\Debug\Student Result Recording System.csproj.SuggestedBindingRedirects.cache
+D:\ashik csharp project\Student Result Recording System\Student Result Recording System\obj\Debug\Student_Result_Recording_System.Form1.resources
+D:\ashik csharp project\Student Result Recording System\Student Result Recording System\obj\Debug\Student_Result_Recording_System.Properties.Resources.resources
+D:\ashik csharp project\Student Result Recording System\Student Result Recording System\obj\Debug\Student Result Recording System.csproj.GenerateResource.cache
+D:\ashik csharp project\Student Result Recording System\Student Result Recording System\obj\Debug\Student Result Recording System.csproj.CoreCompileInputs.cache
+D:\ashik csharp project\Student Result Recording System\Student Result Recording System\obj\Debug\Student Result Recording System.exe
+D:\ashik csharp project\Student Result Recording System\Student Result Recording System\obj\Debug\Student Result Recording System.pdb
+C:\Users\motion artist\Desktop\ashik csharp project\Student Result Recording System\Student Result Recording System\bin\Debug\Student Result Recording System.exe.config
+C:\Users\motion artist\Desktop\ashik csharp project\Student Result Recording System\Student Result Recording System\bin\Debug\Student Result Recording System.exe
+C:\Users\motion artist\Desktop\ashik csharp project\Student Result Recording System\Student Result Recording System\bin\Debug\Student Result Recording System.pdb
+C:\Users\motion artist\Desktop\ashik csharp project\Student Result Recording System\Student Result Recording System\obj\Debug\Student Result Recording System.csproj.AssemblyReference.cache
+C:\Users\motion artist\Desktop\ashik csharp project\Student Result Recording System\Student Result Recording System\obj\Debug\Student Result Recording System.csproj.SuggestedBindingRedirects.cache
+C:\Users\motion artist\Desktop\ashik csharp project\Student Result Recording System\Student Result Recording System\obj\Debug\Student_Result_Recording_System.Form1.resources
+C:\Users\motion artist\Desktop\ashik csharp project\Student Result Recording System\Student Result Recording System\obj\Debug\Student_Result_Recording_System.Properties.Resources.resources
+C:\Users\motion artist\Desktop\ashik csharp project\Student Result Recording System\Student Result Recording System\obj\Debug\Student Result Recording System.csproj.GenerateResource.cache
+C:\Users\motion artist\Desktop\ashik csharp project\Student Result Recording System\Student Result Recording System\obj\Debug\Student Result Recording System.csproj.CoreCompileInputs.cache
+C:\Users\motion artist\Desktop\ashik csharp project\Student Result Recording System\Student Result Recording System\obj\Debug\Student Result Recording System.exe
+C:\Users\motion artist\Desktop\ashik csharp project\Student Result Recording System\Student Result Recording System\obj\Debug\Student Result Recording System.pdb
+D:\Toma Project\171-35-1896\Student Result Recording System\bin\Debug\Student Result Recording System.exe.config
+D:\Toma Project\171-35-1896\Student Result Recording System\bin\Debug\Student Result Recording System.exe
+D:\Toma Project\171-35-1896\Student Result Recording System\bin\Debug\Student Result Recording System.pdb
+D:\Toma Project\171-35-1896\Student Result Recording System\obj\Debug\Student Result Recording System.csproj.AssemblyReference.cache
+D:\Toma Project\171-35-1896\Student Result Recording System\obj\Debug\Student Result Recording System.csproj.SuggestedBindingRedirects.cache
+D:\Toma Project\171-35-1896\Student Result Recording System\obj\Debug\Student_Result_Recording_System.Form1.resources
+D:\Toma Project\171-35-1896\Student Result Recording System\obj\Debug\Student_Result_Recording_System.Properties.Resources.resources
+D:\Toma Project\171-35-1896\Student Result Recording System\obj\Debug\Student Result Recording System.csproj.GenerateResource.cache
+D:\Toma Project\171-35-1896\Student Result Recording System\obj\Debug\Student Result Recording System.csproj.CoreCompileInputs.cache
+D:\Toma Project\171-35-1896\Student Result Recording System\obj\Debug\Student Result Recording System.exe
+D:\Toma Project\171-35-1896\Student Result Recording System\obj\Debug\Student Result Recording System.pdb
+C:\Users\User\OneDrive\Desktop\toma toma\Student Result Recording System\bin\Debug\Student Result Recording System.exe.config
+C:\Users\User\OneDrive\Desktop\toma toma\Student Result Recording System\bin\Debug\Student Result Recording System.exe
+C:\Users\User\OneDrive\Desktop\toma toma\Student Result Recording System\bin\Debug\Student Result Recording System.pdb
+C:\Users\User\OneDrive\Desktop\toma toma\Student Result Recording System\obj\Debug\Student Result Recording System.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\toma toma\Student Result Recording System\obj\Debug\Student Result Recording System.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\toma toma\Student Result Recording System\obj\Debug\Student_Result_Recording_System.Form1.resources
+C:\Users\User\OneDrive\Desktop\toma toma\Student Result Recording System\obj\Debug\Student_Result_Recording_System.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\toma toma\Student Result Recording System\obj\Debug\Student Result Recording System.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\toma toma\Student Result Recording System\obj\Debug\Student Result Recording System.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\toma toma\Student Result Recording System\obj\Debug\Student Result Recording System.exe
+C:\Users\User\OneDrive\Desktop\toma toma\Student Result Recording System\obj\Debug\Student Result Recording System.pdb
